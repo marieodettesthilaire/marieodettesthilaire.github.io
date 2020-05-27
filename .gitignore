@@ -1,0 +1,6 @@
+
+
+# Don't track these files
+notebooks/.ipynb_checkpoints
+.ipynb_checkpoints
+assets/.ipynb_checkpoints
